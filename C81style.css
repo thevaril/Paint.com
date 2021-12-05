@@ -1,0 +1,18 @@
+
+h1
+{
+	color: goldenrod; 
+	font-size: 60px;
+}
+.body_backgorund {
+background-image: url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#myCanvas{
+border-width:20px;
+background-color: black;
+border-style:ridge;
+border-color:goldenrod
+}
